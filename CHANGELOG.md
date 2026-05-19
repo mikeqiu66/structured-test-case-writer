@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## [v0.1.1] - 2026-05-15
+## [V4] - 2026-05-15
 
 ### Changed
 - 强化测试用例中“操作步骤”与“预期结果”必须逐条一一对应的硬规则
@@ -11,5 +11,5 @@
 
 ### Notes
 - 远程仓库：`https://github.com/mikeqiu66/structured-test-case-writer`
-- Tag: `v0.1.1`
+- Tag: `V4`
 - Commit: `5aeb66a`
